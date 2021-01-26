@@ -10,11 +10,12 @@ Hey there 👋
 I’m Sarath Nadupalli, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. In my free time, I play Cyberpunk 2077 and study about psychology and the brain.
 
 Want to know more about me? [Check out my portfolio.](https://sarathnadupalli.com)
-- 🔭 I’m actively working on Vanilla JavaScript, Css projects. 
-- 🏉 My goal is to atleast finish 200 mini projects by fall 2021.
+- 🔭  I’m actively working on Vanilla JavaScript, Css projects. 
+- 🏉  My goal is to atleast finish 200 mini projects by fall 2021.
 - 🙅🏻‍♂️ I do Jiu-Jitsu with MERN stack at work.
-- 💖 I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Web Performance, Blogging/Vlogging, Solving world problems and Automation.
-- 👯 I'm open to work with you on any Open Source Projects.📫 You to reach me: [Email me](mailto:sarath.nadupalli@gmail.com)
+- 💖  I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Web Performance, Blogging/Vlogging, Solving world problems and Automation.
+- 👯  I'm open to work with you on any Open Source Projects.
+- 📫  You can always [Email me](mailto:sarath.nadupalli@gmail.com)
 - ⚡ Fun fact: I am terrible at fixing things or the DIY stuff, and I am envious of those who are good at it.
 
 # 📌 Pinned Repositories
