@@ -1,8 +1,6 @@
-<div style="text-align:center">
-  <a href="https://sarathnadupalli.com">
-    <img alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
-  </a>
-</div>
+<p align="center">
+  <img alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
+</p>
 <br><br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/maverickmaruthi/maverickmaruthi)](https://sarathnadupalli.com)
