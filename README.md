@@ -1,7 +1,6 @@
 <p align="center">
   <img alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
 </p>
-<br><br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/maverickmaruthi/maverickmaruthi)](https://sarathnadupalli.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sarathnvm)
