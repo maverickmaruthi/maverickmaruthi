@@ -1,8 +1,9 @@
-<a href="https://sarathnadupalli.com">
-  <img align="center" alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
-</a>
-<br>
-
+<div style="text-align:center">
+  <a href="https://sarathnadupalli.com">
+    <img alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
+  </a>
+</div>
+<br><br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/maverickmaruthi/maverickmaruthi)](https://sarathnadupalli.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sarathnvm)
