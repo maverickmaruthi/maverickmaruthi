@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Maverick Maruthi's Banner" src="./assets/mm-v1.png" />
+  <img alt="Maverick Maruthi's Banner" src="./assets/mm-v3.jpg" />
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/maverickmaruthi/maverickmaruthi)](https://sarathnadupalli.com)
@@ -9,27 +9,23 @@
 
 Hey there 👋
 
-I’m Sarath Nadupalli, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. In my free time, I play Cyberpunk 2077 and study about psychology and the brain.
+I’m Sarath Nadupalli, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. In my free time, I play video games, binge watch tv shows and study about psychology and the human brain.
 
 Want to know more about me? [Check out my portfolio.](https://sarathnadupalli.com)
-- 🔭  I’m actively working on Vanilla JavaScript, Css projects. 
-- 🏉  My goal is to atleast finish 200 mini projects by fall 2021.
-- 🙅🏻‍♂️ I do Jiu-Jitsu with MERN stack at work.
+- 🔭  I love working on Vanilla JavaScript, Css projects. 
+- 🏉  My goal is to at least finish 200 mini projects by fall 2021.
+- 🙅🏻‍♂️  I also do Jiu-Jitsu with MERN stack at work.
 - 💖  I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Web Performance, Blogging/Vlogging, Solving world problems and Automation.
 - 👯  I'm open to work with you on any Open Source Projects.
 - 📫  You can always [Email me](mailto:sarath.nadupalli@gmail.com)
 - ⚡ Fun fact: I am terrible at fixing things or the DIY stuff, and I am envious of those who are good at it.
 
 # 📌 Pinned Repositories
-
 <br>
-
 <a href="https://github.com/maverickmaruthi/50projects50days">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickmaruthi&repo=50projects50days&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <br>
-
 <a href="https://github.com/maverickmaruthi/natours-home">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickmaruthi&repo=natours-home&title_color=ffffff&text_color=c94c4c&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -38,15 +34,12 @@ Want to know more about me? [Check out my portfolio.](https://sarathnadupalli.co
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
 <a href="https://github.com/maverickmaruthi"> 
   <img  align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverickmaruthi&&show_icons=true&theme=radical"/>
 </a>
-
 <a href="https://github.com/maverickmaruthi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=maverickmaruthi&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Sarath's GitHub Stats" />
 </a>
-
 <br>
 <br>
 
@@ -91,5 +84,5 @@ Want to know more about me? [Check out my portfolio.](https://sarathnadupalli.co
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
-
 <br>
+
