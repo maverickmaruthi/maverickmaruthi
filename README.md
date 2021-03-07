@@ -25,9 +25,8 @@ Want to know more about me? [Check out my portfolio.](https://sarathnadupalli.co
 <a href="https://github.com/maverickmaruthi/50projects50days">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickmaruthi&repo=50projects50days&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
-<a href="https://github.com/maverickmaruthi/natours-home">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickmaruthi&repo=natours-home&title_color=ffffff&text_color=c94c4c&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/maverickmaruthi/javascript30">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickmaruthi&repo=javascript30&title_color=ffffff&text_color=c94c4c&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
